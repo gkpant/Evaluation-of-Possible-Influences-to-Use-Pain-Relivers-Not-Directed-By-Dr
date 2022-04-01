@@ -1,0 +1,2 @@
+# Evaluation-of-Possible-Influences-to-Use-Pain-Relivers-Not-Directed-By-Dr
+The aim of this study is to compare the variables: age, gender, education level, employment status and over health with the using pain relievers without dr. prescription. Data collected from the National Survey on Drug Use and Health 2019, Substance Abuse and Mental Health Data Archive (SAMHDA). This is observational study based on research method descriptive analysis and based on the data from the national survey on drug use and health 2019 as well as reviews of relevant literature. 
